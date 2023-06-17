@@ -1,5 +1,7 @@
 Hi, I am Matthieu JOLIMAITRE, a French computer science student.
-I am studdying at EPITA/Toulouse, I am mainly interested in embeded and performance computing.
+I am studdying at EPITA/Toulouse, I am interested in embeded and performance computing.
+
+[my personnal page](https://matthieu.jolimaitre.com)
 
 ---
 
